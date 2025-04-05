@@ -9,7 +9,7 @@
 📊 Enthusiastic about **visual storytelling** with **Power BI**, **Excel**, and **Seaborn**  
 📫 Reach me: **rajgaur3632@gmail.com** | 📍 Bangalore, India  
 🌐 Portfolio: [rajgaur.netlify.app](https://rajgaur.netlify.app)  
-📄 [Download My Resume](https://github.com/RajGaur3632/Supremelottery/blob/main/static/Raj_Gaur_9353111964.pdf)
+📄 [Download My Resume](https://drive.google.com/file/d/18e6SYjBeyIIgue9bZoCqlsRknkOfbP22/view?usp=sharing))
 
 ---
 
