@@ -8,7 +8,7 @@
 📊 Enthusiastic about **visual storytelling**, **Power BI**, **Excel**, **AI**, and **ML**  
 📫 Reach me: **rajgaur3632@gmail.com** | 📍 Bangalore, India  
 🌐 Portfolio: [rajgaur.netlify.app](https://rajgaur.netlify.app)  
-📄 [Download My Resume](https://drive.google.com/file/d/18e6SYjBeyIIgue9bZoCqlsRknkOfbP22/view?usp=sharing)
+📄 [Download My Resume](https://drive.google.com/file/d/1lesMKTFLmcCUFg9I_ar0L0cM8VXgbPIt/view?usp=drive_link)
 
 ---
 
@@ -54,14 +54,11 @@
 ## 🔥 Latest Projects
 
 - 🚑 **Emergency Routing System** (HERE API, Flask, Real-time traffic prediction)  
-  [GitHub Repo](https://github.com/RajGaur3632/codespace)
+  [GitHub Repo](https://github.com/RajGaur3632/Predictive_routing)
 
 - 🤖 **AI Healthcare Chatbot**  
-  [GitHub Repo](https://github.com/RajGaur3632)
+  [GitHub Repo](https://github.com/RajGaur3632/Healthcarechatbot)
 
-- 📉 **Data Analysis on FHR & UC**  
-  Simulated dataset analysis on fetal heart rate and uterine contractions  
-  *(Jupyter, Python, Seaborn)*
 
 ---
 
